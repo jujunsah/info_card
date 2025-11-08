@@ -16,4 +16,4 @@ Proyek ini dibuat sebagai latihan untuk memahami:
 Berikut adalah tampilan antarmuka pengguna dari aplikasi "My Info Card":
 ![App Screenshot](assets/screenshot_aplikasi/ss.jpg)
 
-https://github.com/jujunsah/info_card
+[https://github.com/jujunsah/info_card](https://github.com/jujunsah/info_card/blob/main/README.md)
