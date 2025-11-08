@@ -1,34 +1,19 @@
-name: info_card
-description: A new Flutter project.
-publish_to: "none"
+# My Info Card (Aplikasi Kartu Nama)
 
-version: 1.0.0+1
+Sebuah proyek Flutter sederhana yang menampilkan kartu informasi pribadi (personal info card) yang interaktif. Aplikasi ini mendemonstrasikan penggunaan aset kustom (gambar dan font) serta navigasi dasar di Flutter.
 
-environment:
-  sdk: '>=3.9.0 <4.0.0'
+Proyek ini dibuat sebagai latihan untuk memahami:
 
-dependencies:
-  flutter:
-    sdk: flutter
-  cupertino_icons: ^1.0.8
+* Struktur dasar proyek Flutter
+* Penggunaan layout (Rows, Columns, Containers, Cards)
+* Menambahkan aset gambar kustom
+* Menambahkan aset font kustom
+* Penanganan ikon dan teks
+* Implementasi tombol yang dapat diklik (misalnya, untuk membuka URL)
 
-dev_dependencies:
-  flutter_test:
-    sdk: flutter
-  flutter_lints: ^4.0.0
+## 📸 Tampilan Aplikasi
 
-flutter:
-  uses-material-design: true
-
-  assets:
-    - assets/ss.jpg
-
-  fonts:
-    - family: Poppins
-      fonts:
-        - asset: assets/fonts/Poppins-Regular.ttf
-
-        ## 📸 Screenshot
-
+Berikut adalah tampilan antarmuka pengguna dari aplikasi "My Info Card":
 ![App Screenshot](assets/screenshot_aplikasi/ss.jpg)
 
+http://googleusercontent.com/image_generation_content/2
