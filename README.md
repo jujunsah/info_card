@@ -21,7 +21,7 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/screenshot_aplikasi/ss.jpg
+    - assets/ss.jpg
 
   fonts:
     - family: Poppins
