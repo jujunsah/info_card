@@ -27,3 +27,8 @@ flutter:
     - family: Poppins
       fonts:
         - asset: assets/fonts/Poppins-Regular.ttf
+
+        ## 📸 Screenshot
+
+![App Screenshot](assets/screenshot_aplikasi/ss.jpg)
+
